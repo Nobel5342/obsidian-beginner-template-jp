@@ -1,0 +1,30 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "02_メモ",
+  "attachmentFolderPath": "06_画像",
+  "userIgnoreFilters": [
+    "06_画像/"
+  ],
+  "showUnsupportedFiles": false,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "ja",
+    "en-US"
+  ],
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showFrontmatter": false,
+  "foldHeading": true,
+  "foldIndent": true,
+  "showLineNumber": false,
+  "rightToLeft": false,
+  "showIndentGuide": true,
+  "useTab": false,
+  "tabSize": 2,
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "communityPluginSortOrder": "download",
+  "mobilePullAction": "default"
+}

@@ -1,0 +1,37 @@
+# Obsidianのワークスペース情報
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# キャッシュ
+.obsidian/cache
+.trash/
+
+# プラグイン関連
+.obsidian/plugins/*
+!.obsidian/plugins/.gitkeep
+
+# ローカル設定
+.obsidian/app-*.json
+.obsidian/graph.json
+.obsidian/page-preview.json
+.obsidian/starred.json
+.obsidian/bookmarks.json
+
+# プライベート情報
+Private/
+*.private.md
+
+# 一時ファイル
+*.tmp
+*.temp
+~*
+
+# OS生成ファイル
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# バックアップファイル
+*.bak
+*.backup
