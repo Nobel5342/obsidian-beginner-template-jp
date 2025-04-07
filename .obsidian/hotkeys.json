@@ -48,14 +48,6 @@
       "key": "Enter"
     }
   ],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "D"
-    }
-  ],
   "daily-notes:goto-next": [
     {
       "modifiers": [
@@ -104,5 +96,8 @@
       ],
       "key": "G"
     }
-  ]
+  ],
+  "graph:open": [],
+  "editor:open-link-in-new-leaf": [],
+  "workspace:undo-close-pane": []
 }
